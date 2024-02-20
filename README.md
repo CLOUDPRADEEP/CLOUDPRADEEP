@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CLOUDPRADEEP
 - 👀 I’m interested in Computers.
-- 🌱 I’m currently learning Python. 
 - 📫 How to reach me email cloudpradeep104@gmail.com
 
 <!---
